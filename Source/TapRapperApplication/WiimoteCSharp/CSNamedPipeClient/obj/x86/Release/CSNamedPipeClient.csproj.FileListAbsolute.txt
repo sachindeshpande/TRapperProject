@@ -1,0 +1,9 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\bin\x86\Release\CSNamedPipeClient.exe.config
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\bin\x86\Release\CSNamedPipeClient.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\bin\x86\Release\CSNamedPipeClient.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\bin\x86\Release\ProjectCommon.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\bin\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\bin\x86\Release\ProjectCommon.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\obj\x86\Release\CSNamedPipeClient.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\CSNamedPipeClient\obj\x86\Release\CSNamedPipeClient.pdb

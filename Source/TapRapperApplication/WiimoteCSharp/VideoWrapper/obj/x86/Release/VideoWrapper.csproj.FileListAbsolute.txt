@@ -1,0 +1,14 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\VideoWrapper.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\VideoWrapper.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\DirectShowLib-2005.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\DxText.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\ProjectCommon.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\Utilities.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\Logging.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\ProjectCommon.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\Utilities.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\bin\x86\Release\Logging.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\obj\x86\Release\VideoWrapper.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VideoWrapper\obj\x86\Release\VideoWrapper.pdb

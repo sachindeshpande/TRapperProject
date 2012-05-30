@@ -1,0 +1,8 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\bin\x86\Debug\SpaceSensor.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\bin\x86\Debug\SpaceSensor.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\bin\x86\Debug\ProjectCommon.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\bin\x86\Debug\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\bin\x86\Debug\ProjectCommon.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\obj\x86\Debug\SpaceSensor.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpaceSensor\obj\x86\Debug\SpaceSensor.pdb

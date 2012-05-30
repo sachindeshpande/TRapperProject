@@ -1,0 +1,9 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\bin\x86\Debug\TestBed.exe.config
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\bin\x86\Debug\TestBed.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\bin\x86\Debug\TestBed.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\obj\x86\Debug\TestBed.Properties.Resources.resources
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\obj\x86\Debug\TestBed.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TestBed\obj\x86\Debug\TestBed.pdb

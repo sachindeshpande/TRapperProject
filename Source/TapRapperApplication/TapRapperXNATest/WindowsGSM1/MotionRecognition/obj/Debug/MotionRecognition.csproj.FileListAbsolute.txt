@@ -1,0 +1,16 @@
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\MotionRecognition.dll
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\MotionRecognition.pdb
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\obj\Debug\MotionRecognition.dll
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\obj\Debug\MotionRecognition.pdb
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\ProjectCommon.dll
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\WiimoteProjects\TRapperProject\trunk\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\ProjectCommon.pdb
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\obj\Debug\MotionRecognition.pdb
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\MotionRecognition.dll
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\MotionRecognition.pdb
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\ProjectCommon.dll
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\bin\Debug\ProjectCommon.pdb
+D:\Projects\TRapper\Source\TapRapperApplication\WiimoteCSharp\MotionRecognition\obj\Debug\MotionRecognition.dll

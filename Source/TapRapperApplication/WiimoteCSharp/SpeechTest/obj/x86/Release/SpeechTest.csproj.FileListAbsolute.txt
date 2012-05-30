@@ -1,0 +1,10 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\bin\x86\Release\SpeechTest.exe.config
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\bin\x86\Release\SpeechTest.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\bin\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\SpeechTest.csproj.ResolveComReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\SpeechTest.Form1.resources
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\SpeechTest\obj\x86\Release\SpeechTest.exe

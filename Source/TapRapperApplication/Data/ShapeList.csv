@@ -1,0 +1,23 @@
+Image,Left,Strike,1
+Image,Left,Stomp,2
+Image,Left,Stomp,2.5
+Image,Left,Step,3.5
+Image,Right,Step,4
+Image,Left,Step,4.5
+Image,Right,Step,5
+Image,Left,Heel Drop,5.5
+Image,Right,Heel Drop,5.5
+Image,Left,Heel Drop,6
+Image,Right,Heel Drop,6
+Image,Left,Bull Drop,7
+Image,Right,Bull Drop,7
+Image,Left,Bull Drop,7.5
+Image,Right,Bull Drop,7.5
+Image,Left,Air Click,8.5
+Image,Right,Air Click,8.5
+Image,Left,Hit Inside,9.5
+Image,Right,Hit Inside,9.5
+Image,Left,Hit Outside,10
+Image,Right,Hit Outside,10
+Image,Left,Jump,11
+Image,Right,Jump,11

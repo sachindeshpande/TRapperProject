@@ -1,0 +1,12 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\MogreDisplay.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\MogreDisplay.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\DirectShowLib-2005.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\Mogre.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\ProjectCommon.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\Utilities.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\ProjectCommon.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\bin\x86\Release\Utilities.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\obj\x86\Release\MogreDisplay.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreDisplay\obj\x86\Release\MogreDisplay.pdb

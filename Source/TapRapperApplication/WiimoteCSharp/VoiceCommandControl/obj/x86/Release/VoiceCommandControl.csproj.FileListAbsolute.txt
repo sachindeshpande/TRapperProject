@@ -1,0 +1,12 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\VoiceCommandControl.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\VoiceCommandControl.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\ProjectCommon.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\Utilities.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\ProjectCommon.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\bin\x86\Release\Utilities.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\obj\x86\Release\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\obj\x86\Release\VoiceCommandControl.csproj.ResolveComReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\obj\x86\Release\VoiceCommandControl.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\VoiceCommandControl\obj\x86\Release\VoiceCommandControl.pdb

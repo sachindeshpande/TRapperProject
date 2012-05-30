@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AppControl">
+</Property><Property Name="Solution File" Value="D:\Projects\WiimoteProjects\TestProjects\Article_src\AppControl\AppControl.sln">
+</Property><Property Name="Date" Value="Wednesday, June 30, 2010">
+</Property><Property Name="Time" Value="18:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="AppControl" Source="AppControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AppControl" Source="AppControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AppControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AppControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AppControl" Source="AppControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

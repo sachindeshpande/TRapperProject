@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectCommon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FollowMeMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Have a good day</Value>
+    </Setting>
+    <Setting Name="TapWithMeMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bad Job</Value>
+    </Setting>
+    <Setting Name="TapWithMeAgainMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nice Work !! nextLineNow Tap With Me Again</Value>
+    </Setting>
+    <Setting Name="TrainingDoneMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nice Tapping !</Value>
+    </Setting>
+    <Setting Name="TrainingStartingMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Watch Me Tap</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

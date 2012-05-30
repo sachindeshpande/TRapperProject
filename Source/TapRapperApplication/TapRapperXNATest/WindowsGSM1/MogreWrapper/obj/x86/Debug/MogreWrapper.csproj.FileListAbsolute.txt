@@ -1,0 +1,17 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\NLog.config
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\MogreWrapper.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\MogreWrapper.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\DirectShowLib-2005.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\DxText.exe
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\Logging.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\Mogre.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\ProjectCommon.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\Utilities.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\Interop.SpeechLib.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\DxText.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\ProjectCommon.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\Utilities.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\bin\x86\Debug\Logging.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\obj\x86\Debug\MogreWrapper.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\MogreWrapper\obj\x86\Debug\MogreWrapper.pdb

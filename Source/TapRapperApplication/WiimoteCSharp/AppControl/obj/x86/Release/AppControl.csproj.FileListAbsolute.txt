@@ -1,0 +1,6 @@
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\AppControl\bin\x86\Release\AppControl.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\AppControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\AppControl\obj\x86\Release\AppControl.ApplicationControl.resources
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\AppControl\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\AppControl\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\AppControl\obj\x86\Release\AppControl.dll

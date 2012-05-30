@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WiimoteDataStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" HighestTrainingSegmentInfoIndex="5">
+  <WiimoteCalibrationRecordInfo RecordID="0" RecordName="CalibrationRecord" HighestRecordingItemIndex="0" NumBeatsPerMinute="4" NumBeats="1" NumBars="1" LeadIn="1" RecordingInterval="1">
+    <WiimoteStandStillRecord RecordID="1" RecordName="StandStill" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="">
+      <SelectedRecording RecordID="0" RecordName="StandStill" RecordedTime="2011-11-04T05:39:16.4775842Z" RecordingDone="true" Calibration="System" IsSelectedRecord="false" />
+      <ReferenceRecordingItems RecordID="0" RecordName="StandStill" RecordedTime="2010-09-05T21:18:44.859375Z" RecordingDone="false" Calibration="System" IsSelectedRecord="false" />
+      <RecordedTime>2011-11-04T05:39:16.4775842Z</RecordedTime>
+      <RecordingDone>true</RecordingDone>
+    </WiimoteStandStillRecord>
+    <WiimoteLeftRecord RecordID="2" RecordName="Left" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="">
+      <SelectedRecording RecordID="0" RecordName="Left" RecordedTime="2011-11-04T05:39:25.7185972Z" RecordingDone="true" Calibration="System" IsSelectedRecord="false" />
+      <ReferenceRecordingItems RecordID="0" RecordName="Left" RecordedTime="2010-09-05T21:19:34.421875Z" RecordingDone="true" Calibration="System" IsSelectedRecord="false" />
+      <RecordedTime>2011-11-04T05:39:25.7185972Z</RecordedTime>
+      <RecordingDone>true</RecordingDone>
+    </WiimoteLeftRecord>
+    <WiimoteRightRecord RecordID="3" RecordName="Right" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="">
+      <SelectedRecording RecordID="0" RecordName="Right" RecordedTime="2011-11-04T05:39:34.87961Z" RecordingDone="true" Calibration="System" IsSelectedRecord="false" />
+      <ReferenceRecordingItems RecordID="0" RecordName="Right" RecordedTime="2010-09-05T21:20:09.453125Z" RecordingDone="false" Calibration="System" IsSelectedRecord="false" />
+      <RecordedTime>2011-11-04T05:39:34.87961Z</RecordedTime>
+      <RecordingDone>true</RecordingDone>
+    </WiimoteRightRecord>
+    <WiimotesSwitched>true</WiimotesSwitched>
+  </WiimoteCalibrationRecordInfo>
+  <TrainingSegmentInfo RecordID="2" RecordName="Introduction" HighestRecordingItemIndex="0" NumBeatsPerMinute="4" NumBeats="1" NumBars="1" LeadIn="1" RecordingInterval="1">
+    <WiimoteReferenceRecord RecordID="4" RecordName="Introduction" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="IntroAndGettingToKnowYourFeet.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+  </TrainingSegmentInfo>
+  <TrainingSegmentInfo RecordID="3" RecordName="PartsOfTheFeet" HighestRecordingItemIndex="0" NumBeatsPerMinute="4" NumBeats="1" NumBars="1" LeadIn="1" RecordingInterval="1">
+    <WiimoteReferenceRecord RecordID="4" RecordName="PartsOfTheFeet" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="PartsOfTheFeet.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimoteReferenceRecord RecordID="5" RecordName="PartsOfTheFeetSlowMo" HighestRecordingItemIndex="0" SlowMoOption="true" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="PartsOfTheFeet.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimoteReferenceRecord RecordID="6" RecordName="PartsOfTheFeetScoring" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="true" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="PartsOfTheFeet.csv">
+      <SelectedRecording RecordID="0" RecordName="RefPartsOfTheFeetScoring" RecordedTime="0001-01-01T00:00:00" RecordingDone="false" Calibration="Dynamic" IsSelectedRecord="true" />
+      <ReferenceRecordingItems RecordID="0" RecordName="RefPartsOfTheFeetScoring" RecordedTime="0001-01-01T00:00:00" RecordingDone="false" Calibration="Dynamic" IsSelectedRecord="true" />
+      <RecordedTime>0001-01-01T00:00:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_18_2011_19_34_25" RecordedTime="2011-09-19T02:34:25.796875Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_18_2011_19_37_49" RecordedTime="2011-09-19T02:38:25.0625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_18_2011_20_17_15" RecordedTime="2011-09-19T03:17:17.125Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_18_2011_20_22_15" RecordedTime="2011-09-19T03:22:16.796875Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_18_2011_20_23_32" RecordedTime="2011-09-19T03:23:32.890625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_18_2011_22_1_1" RecordedTime="2011-09-19T05:01:01.90625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_20_2011_9_55_50" RecordedTime="2011-09-20T16:55:50.15625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_20_2011_10_15_50" RecordedTime="2011-09-20T17:15:50.359375Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_20_2011_22_1_51" RecordedTime="2011-09-21T05:01:51.109375Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_20_2011_22_22_42" RecordedTime="2011-09-21T05:22:42.671875Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_20_2011_22_31_26" RecordedTime="2011-09-21T05:31:26Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_20_2011_22_55_44" RecordedTime="2011-09-21T05:55:44.90625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_25_2011_15_18_1" RecordedTime="2011-09-25T22:18:01.296875Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_25_2011_15_20_32" RecordedTime="2011-09-25T22:20:32.875Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_25_2011_15_24_29" RecordedTime="2011-09-25T22:24:29.515625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_25_2011_15_34_48" RecordedTime="2011-09-25T22:34:48.734375Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_26_2011_22_37_1" RecordedTime="2011-09-27T05:37:01.015625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_26_2011_22_37_47" RecordedTime="2011-09-27T05:37:47.40625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_9_26_2011_22_40_20" RecordedTime="2011-09-27T05:40:20.625Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_10_31_2011_22_25_43" RecordedTime="2011-11-01T05:25:43.3955911Z" RecordingDone="true" Score="1.5" AverageDelay="0" Fluctuation="0" NumberOfStars="2" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_11_3_2011_22_33_22" RecordedTime="2011-11-04T05:33:22.7066801Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_11_3_2011_22_40_8" RecordedTime="2011-11-04T05:40:08.0576614Z" RecordingDone="true" Score="1.5" AverageDelay="0" Fluctuation="0" NumberOfStars="2" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_11_3_2011_22_50_35" RecordedTime="2011-11-04T05:50:35.3439146Z" RecordingDone="true" Score="1.5" AverageDelay="0" Fluctuation="0" NumberOfStars="2" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_11_3_2011_22_51_33" RecordedTime="2011-11-04T05:51:33.0563552Z" RecordingDone="true" Score="1.5" AverageDelay="0" Fluctuation="0" NumberOfStars="2" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPartsOfTheFeetScoring_11_3_2011_23_22_58" RecordedTime="2011-11-04T06:22:58.2798036Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+  </TrainingSegmentInfo>
+  <TrainingSegmentInfo RecordID="4" RecordName="ToeStands" HighestRecordingItemIndex="0" NumBeatsPerMinute="4" NumBeats="1" NumBars="1" LeadIn="1" RecordingInterval="1">
+    <WiimoteReferenceRecord RecordID="4" RecordName="ToeStands" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="ToeStandsTapRapper.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimoteReferenceRecord RecordID="5" RecordName="ToeStandsSlowMo" HighestRecordingItemIndex="0" SlowMoOption="true" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="ToeStandsTapRapper.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimoteReferenceRecord RecordID="6" RecordName="ToeStandsScoring" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="true" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="ToeStandsYourTurn.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_10_23_2011_20_12_47" RecordedTime="2011-10-24T03:12:47.2912277Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_10_23_2011_20_13_6" RecordedTime="2011-10-24T03:13:06.9643529Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_10_31_2011_22_26_35" RecordedTime="2011-11-01T05:26:35.1470294Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_11_3_2011_22_54_22" RecordedTime="2011-11-04T05:54:22.7712058Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_11_3_2011_22_54_42" RecordedTime="2011-11-04T05:54:42.0800931Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_11_3_2011_23_4_23" RecordedTime="2011-11-04T06:04:23.8474799Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_11_3_2011_23_4_42" RecordedTime="2011-11-04T06:04:42.0523588Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_12_12_2011_19_38_23" RecordedTime="2011-12-13T03:38:23.8595395Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_2_12_2012_22_6_22" RecordedTime="2012-02-13T06:06:22.7503421Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_3_28_2012_19_7_13" RecordedTime="2012-03-29T02:07:13.2647557Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayToeStandsScoring_3_28_2012_19_19_44" RecordedTime="2012-03-29T02:19:44.5107246Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+  </TrainingSegmentInfo>
+  <TrainingSegmentInfo RecordID="5" RecordName="MaxiFord" HighestRecordingItemIndex="0" NumBeatsPerMinute="4" NumBeats="1" NumBars="1" LeadIn="1" RecordingInterval="1">
+    <WiimoteReferenceRecord RecordID="7" RecordName="MaxiFord" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="MaxiFord.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimoteReferenceRecord RecordID="8" RecordName="MaxiFord" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="false" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="MaxiFord.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimoteReferenceRecord RecordID="9" RecordName="MaxiFordScoring" HighestRecordingItemIndex="0" SlowMoOption="false" ScoringOption="true" RepeatOption="false" WiimoteRecordingDelay="0" VideoPath="MaxiFordScoring.csv">
+      <RecordedTime>2012-04-17T00:00:00-07:00</RecordedTime>
+      <RecordingDone>false</RecordingDone>
+    </WiimoteReferenceRecord>
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPopOversScoring.csv_10_23_2011_20_14_41" RecordedTime="2011-10-24T03:14:41.8787817Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPopOversScoring.csv_10_23_2011_20_15_11" RecordedTime="2011-10-24T03:15:11.2514617Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPopOversScoring.csv_10_31_2011_22_26_55" RecordedTime="2011-11-01T05:26:55.9169144Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPopOversScoring.csv_11_3_2011_23_5_2" RecordedTime="2011-11-04T06:05:02.8632423Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayPopOversScoring.csv_11_3_2011_23_5_31" RecordedTime="2011-11-04T06:05:31.9926406Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayKalimba_2_15_2012_18_54_12" RecordedTime="2012-02-16T02:54:12.8901424Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayKalimba_4_17_2012_17_40_48" RecordedTime="2012-04-18T00:40:48.3791464Z" RecordingDone="true" Score="1" AverageDelay="0" Fluctuation="0" NumberOfStars="1" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayKalimba_4_17_2012_17_41_13" RecordedTime="2012-04-18T00:41:13.7835995Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayKalimba_4_17_2012_17_43_9" RecordedTime="2012-04-18T00:43:09.4332143Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayKalimba_4_17_2012_17_49_37" RecordedTime="2012-04-18T00:49:37.3304007Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+    <WiimotePlayRecord RecordID="0" RecordName="PlayKalimba_4_17_2012_17_55_43" RecordedTime="2012-04-18T00:55:43.6933555Z" RecordingDone="true" Score="0" AverageDelay="0" Fluctuation="0" NumberOfStars="0" />
+  </TrainingSegmentInfo>
+</WiimoteDataStore>

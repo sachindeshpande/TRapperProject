@@ -1,0 +1,4 @@
+C:\Projects\WiimoteProjects\XNA\WindowsGSM1\WindowsGSM1\WindowsGSM1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\XNA\TapRapperXNATest\WindowsGSM1\WindowsGSM1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\TapRapperXNATest\WindowsGSM1\WindowsGSM1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1Content\obj\x86\Debug\ResolveAssemblyReference.cache

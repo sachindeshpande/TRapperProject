@@ -1,0 +1,16 @@
+Jame
+feet 11:37 64 5 star, match visual judgement
+toe stand, watch play 2x slowmo 2x 11:44 feet right, rhythm wrong 47, 4star, match visual judgement if rhythm is removed.
+popover, P1, p2 2x, p1+p2 2x, slowmo 5x, 11:50, 65, 4 stars
+
+Jimmy
+
+
+feet 12:03, 60 3stars, match visual judgement. No data for robustcalibration.
+toe 44 3 stars matches visual judgement
+pop 59? 3 stars
+
+Lee 
+feet 69 5 12:18
+teo 61 5 12:19
+pop 69 4 should be 5.

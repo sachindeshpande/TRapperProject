@@ -1,0 +1,3 @@
+score,3.442701
+avedelay,0.216215
+fluctuation,0.098654

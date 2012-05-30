@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-02-18T00:47:13.6402562-08:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2012-02-18T00:47:13.6452565-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2012-02-18T00:47:13.6572572-08:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2012-02-18T00:47:13.6622574-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2012-02-18T00:47:13.655257-08:00</Time>
+    </Item>
+    <Item>
+      <Source>video.wmv</Source>
+      <Name>video</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\video.xnb</Output>
+      <Extra>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\video.wmv</Extra>
+      <Time>2012-02-18T20:08:36.6353937-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\TapRapperXNATest\WindowsGSM1\WindowsGSM1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-18T00:05:27.322294-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

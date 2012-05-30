@@ -1,0 +1,14 @@
+%fpath=pwd;
+[fname, fpath]=uigetfile('*.csv', 'Open Wii Data', [fpath, '\a.csv']);
+data=readwiidata([fpath, fname]);
+showwiidata(data);
+
+pause;
+data=applycalibration(data);
+showwiidata(data);
+
+pause;
+data=applyrobustcalibration(data);
+showwiidata(data);
+
+

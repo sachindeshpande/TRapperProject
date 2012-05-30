@@ -1,0 +1,37 @@
+____________________________________________________________
+
+  - WiiYourself! - native C++ Wiimote library  v1.14 BETA
+    (c) gl.tter 2007-9 - http://gl.tter.org
+____________________________________________________________
+
+ LICENSE:  My Wiimote library is free for any use (including
+            commercial), with the following conditions:
+
+1) Don't use it to harm anyone, directly or indirectly,
+   including but not limited to military use (bruising
+   egos is fine ;).
+   
+2) Any distribution in binary form (ie. linked with your
+   program) must include the following text in your
+   distribiutions's documentation (ReadMe file, help file,
+   About box and/or splash screen):
+
+   "contains WiiYourself! wiimote code by gl.tter
+    http://gl.tter.org"
+
+3) Any distribution in source code form must keep all my
+   copyright notices intact unmodified (you can add to
+   them if you've made changes), and must include this
+   license text (either include this file in your
+   distribution, or paste its contents into your distro's
+   licence file).
+
+4) You can't use the code to produce a competing library
+   unless you rewrite it considerably (eg. to convert it
+   to another language, but you need to contact me first).
+  
+   Instead please contribute new features, fixes and ideas.
+__
+
+gl.tter  (http://gl.tter.org | glATr-i-lDOTnet)
+

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MatlabWrapper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WorkingDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">J:\Projects\WiimoteProjects\WiiMotionPlus\Version15-WithTUIO</Value>
+    </Setting>
+    <Setting Name="WiimoteApplicationPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Demo\ReleaseU\Demo.exe</Value>
+    </Setting>
+    <Setting Name="MatlapApplicationPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\wiicompare</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

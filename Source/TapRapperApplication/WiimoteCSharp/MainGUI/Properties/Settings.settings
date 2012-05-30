@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MainGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WorkingDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication</Value>
+    </Setting>
+    <Setting Name="WiimoteApplicationPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Projects\WiimoteProjects\bin\Debug\WiimoteCpp.exe</Value>
+    </Setting>
+    <Setting Name="MatlapApplicationPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\WiimoteMatlab</Value>
+    </Setting>
+    <Setting Name="MediaDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Projects\WiimoteProjects\Media</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

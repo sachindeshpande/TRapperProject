@@ -1,0 +1,36 @@
+function addtaptext(handles)
+global WiiGUIData
+
+switch WiiGUIData.currentref
+    case 1
+        return;
+    case 2
+        %popovers
+        Lseq={'u',' ', 'd', ' ', 'u',' ', 'd',' ', ' ', 'k', ' ', ' ', 's', ' ', ' ', ' '}
+        Rseq={'tip',' ',' ', ' ', 'tip', ' ', ' ', ' ', '->','k','d', ' ', ' ', ' ', 't', ' '}
+        skip=650; endcut=-230;
+    case 3
+        %toestand
+        skip=230; endcut=0;
+        Lseq={'s', 'tip', ' ', 'd', ' ', ' ', 'F', 'R', 's', 'tip', ' ', 'd', 'x', ' ', 'R', ' '};
+        Rseq={'s', 'tip', ' ', 'd', 'F', 'R', ' ', ' ', 's', 'tip', ' ', 'd', 'x', ' ', 'R', ' '};
+end
+
+tbegin=WiiGUIData.dataref.time(1)+skip;
+tend=WiiGUIData.dataref.time(end)-endcut;
+NumB=16;
+Repeat=2;
+
+tmark=tbegin:(tend-tbegin)/(NumB*Repeat):tend;
+
+axes(handles.axesAL);
+for i1=1:NumB
+    th=text(double(tmark(i1)),0., Lseq{i1});
+    text(double(tmark(i1+NumB)),0., Lseq{i1});
+end
+
+axes(handles.axesAR);
+for i1=1:NumB
+    text(double(tmark(i1)), 0, Rseq{i1});
+    text(double(tmark(i1+NumB)), 0, Rseq{i1});
+end

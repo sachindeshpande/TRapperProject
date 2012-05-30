@@ -1,0 +1,13 @@
+<Modules>
+  <Module PersistentId="C3405E5F-6C9D-4CB3-829F-9B285ED92749" ModuleId="VideoPanelControl" />
+  <Module PersistentId="452DF624-B6AB-46A9-B098-682BBEFE032D" ModuleId="ProjectCommon" />
+  <Module PersistentId="41E23763-90D9-41F8-88A1-3603DEDA9B65" ModuleId="WiimoteData" />
+  <Module PersistentId="C99B0055-B433-4E99-A2D0-4DED13811C13" ModuleId="VideoWrapper" />
+  <Module PersistentId="53D3AE9E-0DA0-4C5A-A477-7EB7E20EEF6D" ModuleId="Utilities" />
+  <Module PersistentId="0244A5A8-2F45-4E76-AC5C-02D65AB8D2A8" ModuleId="SpaceSensor" />
+  <Module PersistentId="79E16176-6C4B-47CE-9566-3DA8412BB8F0" ModuleId="Logging" />
+  <Module PersistentId="34F02D2B-80CE-469F-9BFD-CC83B75E3399" ModuleId="MatlabWrapper" />
+  <Module PersistentId="C2C82C17-FC13-40B2-8E05-25D6E9A61FB5" ModuleId="MainGUI" />
+  <Module PersistentId="1D754B89-9E4C-421D-80B3-B10B993D5872" ModuleId="VoiceCommandControl" />
+  <Module PersistentId="9EE6B2BE-948D-48D1-A19F-078434CF4C52" ModuleId="Main" />
+</Modules>

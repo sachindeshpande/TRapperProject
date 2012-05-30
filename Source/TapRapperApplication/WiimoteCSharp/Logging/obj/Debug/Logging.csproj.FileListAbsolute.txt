@@ -1,0 +1,6 @@
+C:\bin\Debug\NLog.config
+C:\bin\Debug\Logging.dll
+C:\bin\Debug\Logging.pdb
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\Logging\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\Logging\obj\Debug\Logging.dll
+C:\Projects\WiimoteProjects\TRapperProject\Source\TapRapperApplication\WiimoteCSharp\Logging\obj\Debug\Logging.pdb
